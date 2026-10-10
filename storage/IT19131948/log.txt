@@ -1,0 +1,16 @@
+hello it's me
+
+REGISTER 001
+
+LIST
+
+BCAST to all users
+
+REGISTER 002
+
+LIST
+
+BCAST Hello 
+
+
+
